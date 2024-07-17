@@ -45,7 +45,7 @@ class _MainScreenViewState extends State<MainScreenView> {
                 style: TextStyle(
                   fontSize: 12,
                   color: Colors.black,
-                  decoration: TextDecoration.none,
+                  // decoration: TextDecoration.none,
                 ),
               ),
             ),
